@@ -2,8 +2,7 @@
 <!-- <h3 align="center">A passionate Software Developer👨‍💻!</h3> -->
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PrajwalD09?tab=repositories)
-<!-- - 📫 How to reach me: [prajwaldudalkar1335@gmail.com](mailto:prajwaldudalkar1335@gmail.com) -->
-- 📫 How to reach me: [prajwaldudalkar1335@gmail.com](mailto:prajwaldudalkar1335@gmail.com?subject=Hello)
+- 📫 How to reach me: [prajwaldudalkar1335@gmail.com](mailto:prajwaldudalkar1335@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
