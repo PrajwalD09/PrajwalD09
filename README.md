@@ -37,8 +37,8 @@
 <!-- <img src="https://smartgen.com.bd/assets/frontend/img/testimonial/soapui.svg" alt="SoapUI" width="40" height="40"/> -->
 <img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="SoapUI" width="40" height="40"/>
 
-<img src="https://qatestlab.com/assets/Uploads/testng1.png" alt="TestNG" width="60" height="40"/>
-<img src="https://pica.zhimg.com/v2-fd89f96ae3003ba5be387a7d61236fd5_1440w.jpg?source=172ae18b" alt="TestNG" width="60" height="40"/>
+<img src="https://qatestlab.com/assets/Uploads/testng1.png" alt="TestNG" width="60" height="30"/>
+<img src="https://pica.zhimg.com/v2-fd89f96ae3003ba5be387a7d61236fd5_1440w.jpg?source=172ae18b" alt="TestNG" width="70" height="30"/>
 
 
 
