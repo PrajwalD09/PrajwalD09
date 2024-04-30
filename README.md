@@ -51,4 +51,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PrajwalD09&label=Profile%20views&color=ff3d3d&style=plastic" alt="prajwald" /> </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrajwalD09&show_icons=true&locale=en&layout=compact" alt="PrajwalD09" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrajwalD09&show_icons=true&locale=en&layout=compact" alt="Top-Languages" /></p>
