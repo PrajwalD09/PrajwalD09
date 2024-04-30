@@ -47,7 +47,7 @@
 </p>
 
 <h2 align-"center">Thank you checking my profile!! 👩‍💻</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajwalD09&label=Profile%20views&color=ff3d3d&style=plastic" alt="prajwald" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PrajwalD09&label=Profile%20views&color=ff3d3d&style=plastic" alt="prajwald" /> </p>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrajwalD09&show_icons=true&locale=en&layout=compact" alt="PrajwalD09" /></p>
