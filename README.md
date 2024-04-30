@@ -37,6 +37,10 @@
 <!-- <img src="https://smartgen.com.bd/assets/frontend/img/testimonial/soapui.svg" alt="SoapUI" width="40" height="40"/> -->
 <img src="https://static1.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" alt="SoapUI" width="40" height="40"/>
 
+<img src="https://qatestlab.com/assets/Uploads/testng1.png" alt="TestNG" width="60" height="40"/>
+
+
+
 <!--
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
