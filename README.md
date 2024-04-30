@@ -31,7 +31,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
 
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="Selenium" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/cucumberio/cucumberio-ar21.svg" alt="Cucumber" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" alt="Cucumber" width="40" height="40"/>
+<img src="https://smartgen.com.bd/assets/frontend/img/testimonial/soapui.svg" alt="SoapUI" width="40" height="40"/>
 
 <!--
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
