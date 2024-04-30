@@ -1,4 +1,4 @@
-<h1 align="center">👋 Namaste, I'm Prajwal D</h1>
+<h1 align="center">🙏 Namaste, I'm Prajwal</h1>
 <!-- <h3 align="center">A passionate Software Developer👨‍💻!</h3> -->
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PrajwalD09?tab=repositories)
