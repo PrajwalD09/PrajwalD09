@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋 Geek, I'm Naman Raj Sharma!</h1>
-<h3 align="center">A passionate Software Developer👨‍💻!</h3>
+<h1 align="center">👋 Namaste, I'm Prajwal D</h1>
+<!-- <h3 align="center">A passionate Software Developer👨‍💻!</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajwalD09&label=Profile%20views&color=ff3d3d&style=plastic" alt="namanraj2611" /> </p>
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/PrajwalD09?tab=repositories)
+- 📫 How to reach me: > [prajwaldudalkar1335@gmail.com](mailto:prajwaldudalkar1335@gmail.com)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/namanraj2611/)
-- 📝 I often write articles on [Medium](https://medium.com/@namanrajsharma2611)
-- 📫 How to reach me: [namanrajsharma2611@gmail.com](mailto:namanrajsharma2611@gmail.com)
+<h2 align-"center">Thank you checking my profile!! 👩‍💻</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajwalD09&label=Profile%20views&color=ff3d3d&style=plastic" alt="prajwald" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naman-raj-sharma-a8800517b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@namanrajsharma2611" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/namanrajsharma21" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/namanrajsharma2611" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/namanrajsharma/profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/prajwal-d-80b318208/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prajwalorignal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<!-- <a href=" " target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a> -->
+<a href="https://www.geeksforgeeks.org/user/prajwaldud9fys/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
