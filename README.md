@@ -27,6 +27,6 @@
 
 
 
-[![LinkedIn](![LinkedIn-Symbole](https://github.com/PrajwalD09/PrajwalD09/assets/153450849/0d7bc7d6-888e-45e8-8d38-b24cf5b7e17b))](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://github.com/PrajwalD09/PrajwalD09/assets/153450849/0d7bc7d6-888e-45e8-8d38-b24cf5b7e17b)](https://www.linkedin.com/in/your-profile/)
 
 
