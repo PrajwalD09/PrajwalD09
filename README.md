@@ -4,9 +4,6 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PrajwalD09?tab=repositories)
 - 📫 How to reach me: > [prajwaldudalkar1335@gmail.com](mailto:prajwaldudalkar1335@gmail.com)
 
-<h2 align-"center">Thank you checking my profile!! 👩‍💻</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajwalD09&label=Profile%20views&color=ff3d3d&style=plastic" alt="prajwald" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/prajwal-d-80b318208/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -41,7 +38,6 @@
 <img src="https://pica.zhimg.com/v2-fd89f96ae3003ba5be387a7d61236fd5_1440w.jpg?source=172ae18b" alt="TestNG" width="70" height="30"/>
 
 
-
 <!--
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
@@ -50,4 +46,8 @@
 -->
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrajwalD09&show_icons=true&locale=en&layout=compact" alt="PrajwalD09" /></p>
+<h2 align-"center">Thank you checking my profile!! 👩‍💻</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajwalD09&label=Profile%20views&color=ff3d3d&style=plastic" alt="prajwald" /> </p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrajwalD09&show_icons=true&locale=en&layout=compact" alt="PrajwalD09" /></p>
